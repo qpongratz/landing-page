@@ -7,3 +7,8 @@ ul {
 a {
     text-decoration: none;
 }
+
+div.header,
+div.footer {
+    background-color: #1f2937;
+}
