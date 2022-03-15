@@ -74,6 +74,11 @@ div.sign-up {
 .page {
     display: flex;
     flex-direction: column;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
     align-items: center;
-    justify-content: space-between;
+    padding: 20px;
 }
