@@ -138,7 +138,7 @@ div.image {
 
 .pictures {
     display: flex;
-    width: 900px;
+    width: 720px;
     justify-content: space-evenly;
     margin: 50px;
 }
