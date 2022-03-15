@@ -131,6 +131,7 @@ button.sign-up,
     align-items: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    min-height: 80vh;
 }
 
 div.image {
