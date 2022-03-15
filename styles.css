@@ -66,6 +66,7 @@ div.sign-up {
     align-items: center;
     justify-content: space-between;
     gap: 50px;
+    padding: 80px 0px;
 }
 
 .placeholder-image {
