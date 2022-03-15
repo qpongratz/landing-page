@@ -126,3 +126,10 @@ button.sign-up,
     gap: 100px;
     padding: 50px;
 }
+
+div.image {
+    height: 100px;
+    width: 100px;
+    border: solid 2px #3882f6;
+    border-radius: 10px;
+}
