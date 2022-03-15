@@ -36,7 +36,7 @@ div.footer {
 .header {
     display: flex;
     flex-direction: column;
-    padding: 10px 100px;
+    padding: 10px 15%;
 }
 
 .top-bar {
@@ -47,4 +47,19 @@ div.footer {
 .top-bar ul {
     display: flex;
     gap: 30px;
+}
+
+div.sign-up {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.placeholder-image {
+    width: 800px;
+    height: 250px;
+    background-color: #9c9da0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
