@@ -78,6 +78,10 @@ div.sign-up {
     align-items: center;
 }
 
+.placeholder-image p {
+    text-align: center;
+}
+
 .page {
     display: flex;
     flex-direction: column;
