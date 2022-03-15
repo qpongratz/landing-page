@@ -133,3 +133,20 @@ div.image {
     border: solid 2px #3882f6;
     border-radius: 10px;
 }
+
+.pictures {
+    display: flex;
+    width: 900px;
+    justify-content: space-evenly;
+}
+
+.picture-unit {
+    width: 100px;
+    height: auto;
+}
+
+.pictures p {
+    font-size: 12px;
+    color: #1f2937;
+    text-align: center;
+}
