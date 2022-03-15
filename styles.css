@@ -14,7 +14,8 @@ div.footer {
 }
 
 .header a,
-.header p{
+.header p,
+.footer p {
     font-size: 18px;
     color: #E5E7EB;
 }
