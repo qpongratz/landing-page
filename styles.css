@@ -12,3 +12,14 @@ div.header,
 div.footer {
     background-color: #1f2937;
 }
+
+.header a,
+.header p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header h1,
+.header h3{
+    color: #F9FAF8;
+}
