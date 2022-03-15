@@ -97,8 +97,16 @@ div.sign-up {
 }
 
 .sign-up-inverse {
-    background-color: #3882F6;
     border: solid 2px #E5E7EB;
+}
+
+button.sign-up {
+    border:none
+}
+
+button.sign-up,
+.sign-up-inverse {
+    background-color: #3882F6;
     padding: 10px;
     width: 130px; 
     border-radius: 10px;
