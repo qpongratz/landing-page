@@ -64,3 +64,10 @@ div.sign-up {
     justify-content: center;
     align-items: center;
 }
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
