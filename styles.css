@@ -8,6 +8,10 @@ a {
     text-decoration: none;
 }
 
+h1, h2, h3, p {
+    margin: 2px;
+}
+
 div.header,
 div.footer {
     background-color: #1f2937;
