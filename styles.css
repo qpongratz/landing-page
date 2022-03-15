@@ -128,8 +128,8 @@ button.sign-up,
 }
 
 div.image {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     border: solid 2px #3882f6;
     border-radius: 10px;
 }
@@ -142,7 +142,7 @@ div.image {
 }
 
 .picture-unit {
-    width: 100px;
+    width: 120px;
     height: auto;
 }
 
