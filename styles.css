@@ -138,6 +138,7 @@ div.image {
     display: flex;
     width: 900px;
     justify-content: space-evenly;
+    margin: 50px;
 }
 
 .picture-unit {
@@ -149,4 +150,10 @@ div.image {
     font-size: 12px;
     color: #1f2937;
     text-align: center;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
