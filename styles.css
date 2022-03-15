@@ -99,6 +99,7 @@ div.sign-up {
     align-items: center;
     justify-content: space-evenly;
     margin: 20px;
+    gap: 32px;
 }
 
 .sign-up-inverse {
