@@ -122,9 +122,8 @@ button.sign-up,
 .content{
     display: flex;
     flex-direction: column;
-    align-items: center;
     gap: 100px;
-    padding: 50px;
+    align-items: center;
 }
 
 div.image {
@@ -162,4 +161,10 @@ div.image {
     font-size: 36px;
     font-weight: extra-bold;
     color: #1f2937;
+}
+
+.quote-holder {
+    background-color: #E5E7EB;
+    height: 100px;
+    padding: 100px;
 }
