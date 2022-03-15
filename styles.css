@@ -38,6 +38,11 @@ div.footer {
     display: flex;
     flex-direction: column;
     padding: 10px 15%;
+    margin: 0;
+}
+
+body {
+    margin: 0;
 }
 
 .top-bar {
