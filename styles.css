@@ -158,7 +158,8 @@ div.image {
 }
 
 .information h2,
-.quote {
+.quote,
+.attribution {
     font-size: 36px;
     color: #1f2937;
 }
@@ -169,6 +170,11 @@ div.image {
 
 .quote {
     font-style: italic;
+}
+
+.attribution {
+    font-weight: bold;
+    text-align: right;
 }
 
 .quote-holder {
